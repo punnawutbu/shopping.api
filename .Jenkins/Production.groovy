@@ -77,7 +77,7 @@ pipelineJob("$projectName/Production/Deploy_aws") {
                 def _dockerTag = '$dockerTag'.replaceAll(/:\\w+\$/, '') + ":\$Tag"
 
                 netProductionAws {
-                    remoteHost = 'mcsn1.nggaws-local'
+                    remoteHost = 'xxx'
                     gitUri = '$gitUri'
                     gitBranch = _gitBranch
                     projectName = '$projectName'
