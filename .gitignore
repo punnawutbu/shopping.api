@@ -272,7 +272,7 @@ __pycache__/
 # Cake - Uncomment if you are using it
 # tools/
 
-# *.jenkins
-# *Key
+*.jenkins
+*Key
 
 # End of https://www.gitignore.io/api/aspnetcore
