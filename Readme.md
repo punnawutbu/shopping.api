@@ -1,7 +1,6 @@
 ```
 -- **หมายเหตุ key, securityEncryption, SecurityService, JwtService เหล่านี้ปกติจะเขียนเป็น nuget ไว้ที่ Nexus Pepo
 ```
--- เนื่องจากมีเวลาจำกัด จึงไม่ได้เช็ค Jwt Token
 ```
 -- ยังไม่มีเงื่อนไข เมื่อล้างตะกร้าให้ปรับยอด stock คืน
 ```
